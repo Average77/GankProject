@@ -13,6 +13,7 @@ public class GankApp extends Application{
     public void onCreate() {
         super.onCreate();
     }
+    
     public static Context getContext(){
         return getContext();
     }
